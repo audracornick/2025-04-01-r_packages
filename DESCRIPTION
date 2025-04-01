@@ -1,0 +1,15 @@
+Package: is.leap
+Title: Is it a leap year
+Version: 0.0.0.9000
+Authors@R: 
+    person("Audra", "Cornick", , "acorni02@student.ubc.ca", role = c("aut", "cre"))
+Description: Checks to see whether or not a year is a leap year.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    stringr
